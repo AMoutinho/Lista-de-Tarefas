@@ -31,4 +31,4 @@
         <img align="center" src="https://i.imgur.com/bPKSTI9.png" width="300"/> 
 
 <h2 id="autor">Autor do Projeto 👨‍💼</h2>
-<a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
+<a href="https://github.com/AMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
